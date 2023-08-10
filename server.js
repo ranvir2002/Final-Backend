@@ -1,4 +1,4 @@
-var app = require("./server/config/app");
+var app = require("./config/app");
 var debug = require("debug")("week2:server");
 var http = require("http");
 
